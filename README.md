@@ -1,7 +1,4 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshinyrags&label=dolls%3C3&labelColor=%23000000&countColor=%23d9e3f0&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshinyrags)
-
-![Profile image](47514-removebg-preview.png)
-
 <!--
 **shinyrags/shinyrags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
